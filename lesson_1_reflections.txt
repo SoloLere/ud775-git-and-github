@@ -24,3 +24,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 	- code
 	- LaTeX
 	- collaborations
+	- personal projects
