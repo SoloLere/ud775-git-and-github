@@ -3,6 +3,6 @@
 
 [Course Notes](https://github.com/leenamurgai/ud775-git-and-github/blob/master/HowToUseGitAndGitHub.pdf)
 
-* **Lesson 1.** Navigating a commit history
-* **Lesson 2.** Creating & Modifying a Repository
-* **Lesson 3.** Using GitHub to Collaborate
+* **Lesson 1.** Navigating a commit history.
+* **Lesson 2.** Creating & Modifying a Repository.
+* **Lesson 3.** Using GitHub to Collaborate.
